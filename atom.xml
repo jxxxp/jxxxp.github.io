@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxxxp.github.io/</id>
-    <title>江晓鹏</title>
-    <updated>2020-11-29T15:41:41.644Z</updated>
+    <title></title>
+    <updated>2020-11-29T16:29:33.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxxxp.github.io/"/>
     <link rel="self" href="https://jxxxp.github.io/atom.xml"/>
+    <subtitle>江晓鹏</subtitle>
     <logo>https://jxxxp.github.io/images/avatar.png</logo>
     <icon>https://jxxxp.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 江晓鹏</rights>
+    <rights>All rights reserved 2020, </rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jxxxp.github.io/post/hello-gridea/</id>
