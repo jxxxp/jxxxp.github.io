@@ -758,3 +758,15 @@ a {
   font-size: 16px;
   margin: 4px 8px;
 }
+
+      .sidebar {
+        width: 240px;
+      }
+      .main-container {
+        margin-left: 240px;
+      }
+    
+      .post-item .right .feature-container {
+        border-radius: 12px;
+      }
+    
