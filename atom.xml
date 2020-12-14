@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jxxxp.github.io/</id>
     <title></title>
-    <updated>2020-12-13T15:19:18.995Z</updated>
+    <updated>2020-12-14T04:15:08.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jxxxp.github.io/"/>
     <link rel="self" href="https://jxxxp.github.io/atom.xml"/>
@@ -17,17 +17,10 @@
         <updated>2020-12-01T16:46:14.000Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[平安-金融科技展厅可视化大屏设计]]></title>
+        <title type="html"><![CDATA[pingan-测试]]></title>
         <id>https://jxxxp.github.io/post/pingan/</id>
         <link href="https://jxxxp.github.io/post/pingan/">
         </link>
         <updated>2020-11-29T16:30:47.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朗诗-室内控制面板界面优化]]></title>
-        <id>https://jxxxp.github.io/post/langshi/</id>
-        <link href="https://jxxxp.github.io/post/langshi/">
-        </link>
-        <updated>2020-04-11T16:00:00.000Z</updated>
     </entry>
 </feed>
